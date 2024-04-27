@@ -1,3 +1,4 @@
+package Adapter_Pattern;
 public class A_MainMenu {
   public void menu() {
     System.out.println("\t\t*******************************************");

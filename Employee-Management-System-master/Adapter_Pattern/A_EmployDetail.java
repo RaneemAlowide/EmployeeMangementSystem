@@ -1,3 +1,5 @@
+package Adapter_Pattern;
+
 import java.util.Scanner;
 
 public class A_EmployDetail {

@@ -17,8 +17,7 @@ public class FactoryEmployManagementSystem {
             choice = Integer.parseInt(sc.nextLine());
 
             FactoryEmployeeService service = F_EmployeeServiceFactory
-
-                    .createService(choice);
+            .createService(choice);
             if (service != null) {
                 service.execute();
                 System.out.print("\033[H\033[2J");

@@ -1,3 +1,5 @@
+package Adapter_Pattern;
+
 public class A_CodeExit {
 
   public void out() {

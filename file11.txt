@@ -1,0 +1,7 @@
+Employee ID:11
+Employee Name     :Raneem
+Father's Name     :emad
+Employee Contact  :0554886040
+Email Information :r.alowide@gmail.com
+Employee position :ceo
+Employee Salary   :500000
