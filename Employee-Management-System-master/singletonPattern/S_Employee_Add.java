@@ -10,7 +10,7 @@ public class S_Employee_Add {
     public void createFile() {
         Scanner sc = new Scanner(System.in);
 
-        S_EmployDetail emp = new S_EmployDetail();
+        singletonPattern.S_EmployDetail emp = new S_EmployDetail();
         emp.getInfo();
         try {
             File f1 = new File("file" + emp.employ_id + ".txt");

@@ -3,7 +3,7 @@ package singletonPattern;
 import java.util.Scanner;
 
 
-class S_EmployDetail
+public class S_EmployDetail
 {
     String name;
     String father_name;
