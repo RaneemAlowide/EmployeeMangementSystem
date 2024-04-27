@@ -3,6 +3,7 @@ package singletonPattern;
 import java.io.IOException;
 import java.util.Scanner;
 
+
 class S_EmloyManagementSystem {
     public static void main(String arv[]) {
         /** To clear the output Screen **/

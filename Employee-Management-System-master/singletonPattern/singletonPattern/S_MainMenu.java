@@ -2,6 +2,7 @@ package singletonPattern;
 /*************************** MENU OF EMS ****************************/
 //change by nouf
 
+
 class S_MainMenu {
     private static S_MainMenu instance;
 

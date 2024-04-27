@@ -2,6 +2,7 @@ package singletonPattern;
 
 import java.util.Scanner;
 
+
 class S_EmployDetail
 {
     String name;

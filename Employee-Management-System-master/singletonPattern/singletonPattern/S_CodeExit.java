@@ -1,8 +1,5 @@
 package singletonPattern;
 
-
-
-
 public class S_CodeExit {
     public void out()
     {

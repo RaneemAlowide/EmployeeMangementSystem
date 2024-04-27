@@ -1,5 +1,4 @@
 
-
 package singletonPattern;
 
 import java.io.File;

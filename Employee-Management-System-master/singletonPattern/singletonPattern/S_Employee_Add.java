@@ -4,13 +4,8 @@ package singletonPattern;
 
 import java.io.File;
 import java.io.FileWriter;
-import java.io.IOException;
 import java.util.Scanner;
 
-/**
- *
- * @author NoufM
- */
 public class S_Employee_Add {
     public void createFile() {
         Scanner sc = new Scanner(System.in);
