@@ -1,6 +1,6 @@
-package Decorator_Pattern;
-import java.util.*;
-class D_MainMenu {
+package com.company;
+
+public class MainMenu {
     public void menu() {
         System.out.println("\t\t*******************************************");
         System.out.println("\t\t\t  EMPLOYEE MANAGEMENT SYSTEM");
@@ -13,6 +13,5 @@ class D_MainMenu {
         System.out.println("Press 3 : To Remove an Employee");
         System.out.println("Press 4 : To Update Employee Details");
         System.out.println("Press 5 : To Exit the EMS Portal");
-          System.out.println("Press 6 : To See an Employee Details with Bonus");
     }
 }
