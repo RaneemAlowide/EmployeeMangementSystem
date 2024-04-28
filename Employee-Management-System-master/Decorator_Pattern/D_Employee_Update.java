@@ -1,4 +1,4 @@
-package javaapplication134;
+package Decorator_Pattern;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
