@@ -1,14 +1,12 @@
 package Adapter_Pattern;
 
-import java.io.File;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
 class A_Employee_Add {
     private EmployeeDataAdapter adapter;
 
-    public A_Employee_Add(EmployeeDataAdapter adapter) {
+    public A_Employee_Add() {
         this.adapter = adapter;
     }
 
