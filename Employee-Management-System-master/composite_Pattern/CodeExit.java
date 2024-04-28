@@ -1,4 +1,4 @@
-package com.company;
+package composite_Pattern;
 
 public class CodeExit {
     public void out() {
