@@ -1,7 +1,8 @@
 package Factor_Pattern;
 
-public class F_CodeExit {
-    public void out() {
+public class F_CodeExit implements FactoryEmployeeService{
+    @Override
+    public void execute() {
         System.out.println("\n*****************************************");
         System.out.println("$ cat Thank You For Using my Software :) ");
         System.out.println("*****************************************");

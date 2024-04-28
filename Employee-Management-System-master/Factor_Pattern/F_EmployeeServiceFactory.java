@@ -12,9 +12,7 @@ public class F_EmployeeServiceFactory {
             case 4:
                 return new F_EmployeeUpdate();
             case 5:
-                F_CodeExit obj = new F_CodeExit();
-                obj.out();
-                return null;
+                return new F_CodeExit();
             default:
                 System.out.println("Invalid choice!");
                 return null;
