@@ -12,7 +12,6 @@ public class F_EmployeeUpdate implements FactoryEmployeeService {
         Scanner scanner = new Scanner(System.in);
         System.out.print("\nPlease Enter Employee's ID: ");
         String employeeId = scanner.nextLine();
-
         try {
             File file = new File("file" + employeeId + ".txt");
             Scanner sc = new Scanner(file);
