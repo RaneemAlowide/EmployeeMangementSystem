@@ -29,3 +29,5 @@ public class A_EmployDetail {
     employ_salary = Text.nextLine();
   }
 }
+
+

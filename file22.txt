@@ -1,0 +1,7 @@
+Employee ID:22
+Employee Name     :r
+Father's Name     :e
+Employee Contact  :0554886040
+Email Information :2222
+Employee position :ceo
+Employee Salary   :100000000

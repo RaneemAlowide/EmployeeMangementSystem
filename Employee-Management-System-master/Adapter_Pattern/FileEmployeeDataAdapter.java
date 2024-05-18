@@ -5,7 +5,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 
-class FileEmployeeDataAdapter implements EmployeeDataAdapter {
+public class FileEmployeeDataAdapter implements EmployeeDataAdapter {
   @Override
   public void saveEmployeeData(String employeeId, String data) throws IOException {
     File file = new File("file" + employeeId + ".txt");
